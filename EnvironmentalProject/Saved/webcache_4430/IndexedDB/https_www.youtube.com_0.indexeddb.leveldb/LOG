@@ -1,0 +1,6 @@
+2023/01/25-14:38:42.575 1cbc Creating DB E:/Game Development GIT/EnvironmentalProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/01/25-14:38:42.757 1cbc Reusing MANIFEST E:/Game Development GIT/EnvironmentalProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/25-14:47:34.753 3034 Level-0 table #5: started
+2023/01/25-14:47:34.803 3034 Level-0 table #5: 7465 bytes OK
+2023/01/25-14:47:34.868 3034 Delete type=0 #3
+2023/01/25-14:47:34.869 3034 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
